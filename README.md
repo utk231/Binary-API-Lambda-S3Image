@@ -1,0 +1,1 @@
+Gets image from S3 and returns it to API Gateway (Binary API image/png type), */* in API
